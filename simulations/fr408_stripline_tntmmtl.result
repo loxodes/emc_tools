@@ -1,0 +1,44 @@
+
+2016 05 16 23:33:59 kleinjt NMMTL_2DLF
+
+File = Z:/home/kleinjt/repos/em_probes/simulations/fr408_stripline_tntmmtl
+Number of Signal Lines  =   1
+Number of Ground Planes =   2
+Number of Ground Wires  =   0
+Coupling Length =   0.10000 meters
+Rise Time =   200.0000 picoseconds
+Contour (conductor) segments [cseg] = 10
+Ground Plane/Dielectric segments [dseg] = 10
+Conductivity c1R0 = 5e+007 siemens/meter
+Note: minimum frequency for surface current assumptions is 1750 MHz.
+Mutual and Self Electrostatic Induction:
+B(Active Signal , Passive Signal) Farads/Meter
+B( ::c1R0 , ::c1R0 )=  1.3052626e-010
+
+Mutual and Self Inductance:
+L(Active Signal , Passive Signal) Henrys/Meter
+L( ::c1R0 , ::c1R0 )=  3.1155929e-007
+
+Characteristic Impedance (Ohms):
+For Signal Line ::c1R0= 48.8564
+
+Effective Dielectric Constant:
+For Signal Line ::c1R0= 3.66
+
+Propagation Velocity (meters/second):
+For Signal Line ::c1R0=  1.5670405e+008
+
+Propagation Delay (seconds/meter):
+For Signal Line ::c1R0=  6.3814561e-009
+
+Rdc:
+Rdc(Active Signal , Passive Signal) Ohms/Meter
+Rdc( ::c1R0 , ::c1R0 )=  4.6268749e+000
+
+Far-End (Forward) Cross Talk:
+FXT(Active Signal, Passive Signal)
+
+Near-End (Backward) Cross Talk:
+BXT(Active Signal, Passive Signal)
+
+NOTE: Cross talk results assume there are no reflections.
