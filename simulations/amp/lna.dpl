@@ -1,0 +1,42 @@
+<Qucs Schematic 0.0.18>
+<Properties>
+  <View=0,-367,910,773,0.974363,128,0>
+  <Grid=10,10,0>
+  <DataSet=lna.dat>
+  <DataDisplay=lna.sch>
+  <OpenDisplay=1>
+  <Script=lna.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 340 280 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"dBS21" #0000ff 0 3 0 0 0>
+	  <Mkr 3.96678e+09 55 -249 3 0 0>
+	  <Mkr 5.67391e+07 -118 -245 3 0 0>
+	  <Mkr 1.11152e+08 -126 -312 3 0 0>
+	  <Mkr 6.12679e+08 55 -327 3 0 0>
+  </Rect>
+  <Rect 630 290 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"mu2" #0000ff 0 3 0 0 0>
+	<"mu" #ff0000 0 3 0 0 0>
+  </Rect>
+  <Rect 330 510 240 160 3 #c0c0c0 1 00 1 0 1e+09 6e+09 1 -15 5 0 1 -1 1 1 315 0 225 "" "" "">
+	<"dBS11" #0000ff 0 3 0 0 0>
+	  <Mkr 5.77259e+07 -218 -180 3 0 0>
+	  <Mkr 3.96678e+09 219 -141 3 0 0>
+	<"dBS22" #ff0000 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
