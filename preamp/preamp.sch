@@ -523,4 +523,6 @@ Wire Wire Line
 	4650 2800 4450 2800
 Wire Wire Line
 	4850 2800 4950 2800
+Text Notes 3300 4500 0    118  ~ 0
+uses oshpark .8mm fr4 2 layer stackup
 $EndSCHEMATC
