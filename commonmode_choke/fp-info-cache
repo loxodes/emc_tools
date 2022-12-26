@@ -1,0 +1,134 @@
+31707807882108
+jtk_kicad_libs
+AQFN-12-1EP_3x3mm_P0.5mm_EP1.5x1.5mm-MAMX
+QFN, 12 Pin (https://www.nxp.com/docs/en/data-sheet/MMZ09332B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+26
+13
+jtk_kicad_libs
+ATS2012
+
+
+0
+5
+3
+jtk_kicad_libs
+AVX_MLO_CASE_SIZE_E
+AVX MLO filter, size E, http://datasheets.avx.com/AVX-MLO-Filters-Footprints.pdf
+filter
+0
+50
+3
+jtk_kicad_libs
+Coilcraft_L_1008CS_2520Metric
+Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+jtk_kicad_libs
+DFN-8-1EP_2x2mm_P0.5mm_EP0.25x1.6mm
+DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc5597.pdf), LTC DWG # 05-08-1957 Rev A
+DFN NoLead
+0
+9
+9
+jtk_kicad_libs
+DFT4532
+
+
+0
+4
+4
+jtk_kicad_libs
+DG1847
+
+
+0
+29
+25
+jtk_kicad_libs
+FL_1812_Johanson
+
+
+0
+4
+3
+jtk_kicad_libs
+FPC07181
+
+
+0
+8
+5
+jtk_kicad_libs
+Filter_Mini-Circuits_JV1210C-2
+Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206-7.pdf
+Mini-Circuits Filter SMD 1210
+0
+3
+3
+jtk_kicad_libs
+LFCSP-40-1EP_6x6mm_P0.5mm_EP4.7x4.7mm
+QFN, 40 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=295), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+57
+41
+jtk_kicad_libs
+LGA-24-1EP_3x3mm_P0.4mm_EP1.5x1.5mm_ADI_CC_24_12
+LGA, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lgacc/cc-24-12.pdf)
+LGA24
+0
+29
+25
+jtk_kicad_libs
+LGA-32-1EP_5x5mm_Psemi
+
+
+0
+36
+33
+jtk_kicad_libs
+L_Coilcraft_0402HP_1005Metric
+Coilcraft Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, 0402HP, source https://www.coilcraft.com/getmedia/54459dcc-b821-4a9d-b91e-0416ea86a9b2/0402hp.pdf
+inductor
+0
+2
+2
+jtk_kicad_libs
+MACOM_LGA9
+
+
+0
+18
+10
+jtk_kicad_libs
+PQFN-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
+PQFN, 16 Pin (https://cdn.macom.com/applicationnotes/S2083.pdf)
+QFN NoLead
+0
+21
+17
+jtk_kicad_libs
+SMA_Cinch_142-0711-821_EdgeMount
+https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-142-0711-821.pdf
+SMA
+0
+5
+2
+jtk_kicad_libs
+TDFN6
+
+
+0
+7
+7
+jtk_kicad_libs
+sw_edge_oshpark_4layer
+
+
+0
+23
+2
